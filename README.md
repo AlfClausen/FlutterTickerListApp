@@ -1,6 +1,10 @@
-# fluttertickerlistapp
+# Flutter TickerList app
 
-A new Flutter application.
+Example Flutter project to demonstrate how to make app with list of items, search bar with filtering, api call & animated ticker widget
+
+<p align="left">
+  <img width="240" height="426" src="flutter_ticker_app.gif">
+</p>
 
 ## Getting Started
 
