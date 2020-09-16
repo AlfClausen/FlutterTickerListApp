@@ -15,8 +15,4 @@ class Address {
     );
   }
 
-  @override
-  String toString() {
-    return '{ ${this.userId}, ${this.id}, ${this.title}, ${this.body} }';
-  }
 }
